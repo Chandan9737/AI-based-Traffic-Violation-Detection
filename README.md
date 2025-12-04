@@ -59,6 +59,8 @@ python main.py --img samples/helmet.jpg
 
 ---
 
+SCREENSHOT
+<img width="1536" height="1024" alt="screenshot " src="https://github.com/user-attachments/assets/2823bdd6-4dc9-4bc7-afd4-da076f44b55b" />
 
 
 ---
